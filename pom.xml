@@ -5,4 +5,13 @@
     <groupId>com.seuprojeto</groupId>
     <artifactId>SistemaDeGest-odeProjetos</artifactId>
     <version>1.0-SNAPSHOT</version>
+
+    <dependencies>
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-j</artifactId>
+            <version>8.4.0</version>
+        </dependency>
+        <!-- Outras dependências, se houver -->
+    </dependencies>
 </project>
