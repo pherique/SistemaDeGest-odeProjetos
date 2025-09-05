@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SistemaDeGest-odeProjetos.iml" filepath="$PROJECT_DIR$/SistemaDeGest-odeProjetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/faculdade.iml" filepath="$PROJECT_DIR$/faculdade.iml" />
     </modules>
   </component>
 </project>
